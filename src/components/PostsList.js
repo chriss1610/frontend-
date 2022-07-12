@@ -2,7 +2,7 @@ import React, { Component, lazy, Suspense } from "react";
 import axios from "axios";
 const Post = lazy(() => import("./Post"));
 
-const baseURL = process.env.REACT_APP_BASEURL || "https://noor-website.herokuapp.com";
+const baseURL = process.env.REACT_APP_BASEURL || "https://chris-mern-stack.herokuapp.com";
 
 const renderLoader = () => (
     <div className="spinner-container">
