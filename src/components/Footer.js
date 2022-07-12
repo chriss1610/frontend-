@@ -2,7 +2,7 @@ import React from "react";
 
 const Footer = () => (
     <footer>
-        Created by <span id="Chris">Noor</span>
+        Created by <span id="Chris">Chris</span>
         <br />
         <span>
             <i
