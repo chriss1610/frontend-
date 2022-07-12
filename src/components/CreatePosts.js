@@ -13,7 +13,7 @@ class CreatePosts extends Component {
         this.state = {
             title: "",
             body: "",
-            author: "Noor",
+            author: "Chris",
             date: new Date(),
             isLoggedIn: true,
         };

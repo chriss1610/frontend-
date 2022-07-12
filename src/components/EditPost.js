@@ -13,7 +13,7 @@ class EditPost extends Component {
         this.state = {
             title: "",
             body: "",
-            author: "Noor",
+            author: "Chris",
             date: "",
             isLoggedIn: true,
         };
